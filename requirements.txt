@@ -4,3 +4,5 @@ scikit-learn
 xgboost
 numpy
 imbalanced-learn
+folium
+streamlit-folium
